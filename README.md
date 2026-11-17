@@ -8,7 +8,7 @@ Web3 production stacks (autonomous agents, smart contracts, indexers).
 
 Core contributor on Olas Mechs, an open-source platform where
 autonomous agents accept on-chain task requests, run AI inference
-off-chain, and deliver results back on-chain. ~107 merged PRs across
+off-chain, and deliver results back on-chain. 140+ merged PRs across
 11 repos under [valory-xyz](https://github.com/valory-xyz).
 
 A few things I owned:
